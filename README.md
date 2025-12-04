@@ -62,8 +62,10 @@ Ecommerce_Analytics/
 
 ## 📈 Dashboard Preview
 
-<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/b4808799-8024-4c15-b98b-7ed0f2042ced" />
+<img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/4888fd0a-f9ae-4430-9e9d-4a36dbd3af80" />
+
 <img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/fd95bf27-628f-48d6-a604-5d6c2770be4e" />
+
 <img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/9dfdbbba-e961-4a2c-bb18-e4d37a0a1714" />
 
 
