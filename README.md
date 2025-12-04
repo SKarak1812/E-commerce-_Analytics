@@ -36,3 +36,34 @@ Ecommerce_Analytics/
 │ └─ Ecommerce_Analytics_Dashboard.xlsx
 └─ README.md → Project documentation
 
+
+---
+
+## 🔍 Key Business Insights
+
+### 📌 Sales Insights
+- Total Revenue: **₹89,11,407**
+- Peak sales observed in **Q4 (Nov–Dec)** with strong seasonal demand
+- Major sales driven by UK market
+
+### 🧑‍🤝‍🧑 Customer Insights
+- **66% repeat customer rate** → strong loyalty & retention  
+- Customer segments:
+  - **39% Active**
+  - **33% at Churn Risk**
+  - **28% Warm** (growth opportunity)
+
+### 🛒 Product Insights
+- 3,665 unique products sold (wide product catalog)
+- **85% revenue** driven by **Accessories** → high category dependence
+- Top 10 products contribute disproportionately to revenue
+
+---
+
+## 📈 Dashboard Preview
+
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/b4808799-8024-4c15-b98b-7ed0f2042ced" />
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/fd95bf27-628f-48d6-a604-5d6c2770be4e" />
+<img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/9dfdbbba-e961-4a2c-bb18-e4d37a0a1714" />
+
+
